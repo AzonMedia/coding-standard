@@ -1,0 +1,20 @@
+{
+    "name": "azonmedia/php-codesniffer-azonmedia-coding-standard",
+    "type": "library",
+    "description": "Azonmedia coding standard for php_codesniffer",
+    "keywords": ["coding standard"],
+    "homepage": "https://github.com/AzonMedia/php-codesniffer-azonmedia-coding-standard",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Vesko Kenashkov",
+            "email": "kenashkov@azonmedia.com",
+            "homepage": "http://azonmedia.com",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
