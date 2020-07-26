@@ -10,5 +10,5 @@ $ composer require azonmedia/php-codesniffer-azonmedia-coding-standard
 ```
 To use the coding standard package:
 ```
-$ phpcs --standard=/PATH/TO/YOUR/PROJECT/vendor/azonmedia/php-codesniffer-azonmedia-coding-standard /PATH/TO/YOUR/PROJECT
+$ phpcs --standard=/PATH/TO/YOUR/PROJECT/vendor/azonmedia/php-codesniffer-azonmedia-coding-standard/Azonmedia /PATH/TO/YOUR/PROJECT
 ```
